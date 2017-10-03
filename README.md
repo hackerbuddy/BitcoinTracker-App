@@ -12,3 +12,5 @@ Amusingly, the email notifications work but I need to fix the minutes counter. 3
 Also, here are some helpful links to get you started if you wanna scrape and send emails with python:
 
 Sending emails with python: [http://naelshiab.com/tutorial-send-email-python/](http://naelshiab.com/tutorial-send-email-python/)
+
+If you are an employer and you need to see my code, please contact me and I will post it. :) Thanks
