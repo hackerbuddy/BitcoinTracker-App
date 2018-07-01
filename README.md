@@ -1,7 +1,7 @@
 # BitcoinTracker-App
 ### Tracking ETH using scraping and sends email alerts
 
-I don't really feel like making my code public for this one yet. But here are a few working screenshots:
+Changed links, but here are a few working screenshots of when it was up:
 
 <img src="https://github.com/hackerbuddy/BitcoinTracker-App/blob/master/scraper.jpg" width="360" height="270">
 
@@ -13,4 +13,4 @@ Also, here are some helpful links to get you started if you wanna scrape and sen
 
 Sending emails with python: [http://naelshiab.com/tutorial-send-email-python/](http://naelshiab.com/tutorial-send-email-python/)
 
-If you are an employer and you need to see my code, please contact me and I will post it. :) Thanks
+
